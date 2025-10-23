@@ -1,1 +1,50 @@
 [2025-10-23 11:01:34,037]: INFO: main: Welcom to our custom data science projct
+[2025-10-23 15:27:20,611]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 15:27:20,616]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 15:28:32,068]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 15:28:32,078]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 15:28:32,089]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 15:28:32,091]: INFO: common: created directory at: artifacts
+[2025-10-23 15:37:09,603]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 15:37:09,605]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 15:37:09,645]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 15:37:09,647]: INFO: common: created directory at: artifacts
+[2025-10-23 15:37:29,346]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 15:37:29,348]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 15:37:29,349]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 15:37:29,351]: INFO: common: created directory at: artifacts
+[2025-10-23 15:37:43,704]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 15:37:43,705]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 15:37:43,707]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 15:37:43,708]: INFO: common: created directory at: artifacts
+[2025-10-23 15:52:12,875]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 15:52:12,878]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 15:52:12,879]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 15:52:12,881]: INFO: common: created directory at: artifacts
+[2025-10-23 15:52:12,881]: ERROR: 4146794399: Error in Data Ingestion: 'NoneType' object has no attribute 'root_dir'
+[2025-10-23 15:52:30,894]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 15:52:30,895]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 15:52:30,897]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 15:52:30,898]: INFO: common: created directory at: artifacts
+[2025-10-23 15:52:30,898]: ERROR: 101450965: Error in Data Ingestion: 'NoneType' object has no attribute 'root_dir'
+[2025-10-23 15:54:58,836]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 15:54:58,838]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 15:54:58,840]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 15:54:58,842]: INFO: common: created directory at: artifacts
+[2025-10-23 15:54:58,842]: ERROR: 2112268331: Error in Data Ingestion: 'NoneType' object has no attribute 'root_dir'
+[2025-10-23 15:57:44,347]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 15:57:44,349]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 15:57:44,351]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 15:57:44,352]: INFO: common: created directory at: artifacts
+[2025-10-23 16:02:44,807]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 16:02:44,810]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 16:02:44,814]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 16:02:44,816]: INFO: common: created directory at: artifacts
+[2025-10-23 16:03:17,291]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 16:03:17,293]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 16:03:17,295]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 16:03:17,296]: INFO: common: created directory at: artifacts
+[2025-10-23 16:04:19,288]: INFO: common: yaml file: config\config.yaml loaded successfully
+[2025-10-23 16:04:19,290]: INFO: common: yaml file: params.yaml loaded successfully
+[2025-10-23 16:04:19,292]: INFO: common: yaml file: schema.yaml loaded successfully
+[2025-10-23 16:04:19,293]: INFO: common: created directory at: artifacts
